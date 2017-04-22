@@ -10,8 +10,8 @@
 <tspan x="10" y="122">│ ├─┬ superagent@3.5.2 </tspan>
 <tspan x="10" y="138">│ │ ├── component-emitter@1.2.1 </tspan>
 <tspan x="10" y="154">│ │ ├── cookiejar@2.1.1 </tspan>
-<tspan x="10" y="170">│ │ ├─┬ debug@2.6.3 </tspan>
-<tspan x="10" y="186">│ │ │ └── ms@0.7.2 </tspan>
+<tspan x="10" y="170">│ │ ├─┬ debug@2.6.4 </tspan>
+<tspan x="10" y="186">│ │ │ └── ms@0.7.3 </tspan>
 <tspan x="10" y="202">│ │ ├── extend@3.0.0 </tspan>
 <tspan x="10" y="218">│ │ ├─┬ form-data@2.1.4 </tspan>
 <tspan x="10" y="234">│ │ │ ├── asynckit@0.4.0 </tspan>
