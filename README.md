@@ -1,6 +1,6 @@
 # npmtest-discord.js
 
-#### basic test coverage for  [discord.js (v11.0.0)](https://github.com/hydrabolt/discord.js#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-discord.js.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-discord.js) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-discord.js.svg)](https://travis-ci.org/npmtest/node-npmtest-discord.js)
+#### basic test-coverage for  [discord.js (v11.0.0)](https://github.com/hydrabolt/discord.js#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-discord.js.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-discord.js) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-discord.js.svg)](https://travis-ci.org/npmtest/node-npmtest-discord.js)
 
 #### A powerful library for interacting with the Discord API
 
@@ -131,7 +131,8 @@
         "web-dist": "node ./node_modules/parallel-webpack/bin/run.js"
     },
     "types": "./typings/index.d.ts",
-    "version": "11.0.0"
+    "version": "11.0.0",
+    "bin": {}
 }
 ```
 
